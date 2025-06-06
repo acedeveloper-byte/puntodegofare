@@ -34,7 +34,7 @@ const Footer = () => {
               </div>
               <div className="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                 <div className="Follow">
-                  <h3>CONTACT US</h3>
+                  <h3>Contacta con nosotros</h3>
                   <span>
                     <h6>Registered Address:</h6>
                     <span>
@@ -45,38 +45,37 @@ const Footer = () => {
                       <br />
                     </span>
                     <br />
-                    <a href="tel:+1-(888)-279-9809">+1(888)-279-9809</a>
+                    <a href="tel:+1-(888)-279-9809">+1(000) 000-0000</a>
                   </span>
                 </div>
               </div>
               <div className="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                 <div className="Follow">
-                  <h3>ADDITIONAL LINKS</h3>
+                  <h3>
+ENLACES ADICIONALES</h3>
                   <ul className="link">
                     <li>
-                      <Link href="/about">About us</Link>
+                      <Link href="/about">Sobre nosotros</Link>
                     </li>
                     <li>
-                      <Link href="/terms">Terms and conditions</Link>
+                      <Link href="/terms">
+Términos y condiciones
+</Link>
                     </li>
                     <li>
-                      <Link href="/privacy"> Privacy policy</Link>
+                      <Link href="/privacy"> Política de privacidad
+</Link>
                     </li>
+                 
                     <li>
-                      <Link href="/cancellation">Cancellation Policy</Link>
-                    </li>
-                    <li>
-                      <Link href="/refund">Refund Policy</Link>
-                    </li>
-                    <li>
-                      <Link href="/contact"> Contact us</Link>
+                      <Link href="/contact"> Contacta con nosotros</Link>
                     </li>
                   </ul>
                 </div>
               </div>
               <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                 <div className="Follow">
-                  <h3>Contact</h3>
+                  <h3>Contacto</h3>
                   <div className="row">
                     <div className="col-xl-6 col-lg-6 col-md-6 col-sm-6">
                       <input
@@ -108,8 +107,8 @@ const Footer = () => {
             <div className="copyright">
               <div className="container">
                 <p>
-                  Copyright 2024 All Right Reserved By
-                  <a href="#"> Book Easy Vacations</a>
+                  Copyright 2025 Todos los derechos reservados por
+                  <a href="#"> Puntodegofare</a>
                 </p>
               </div>
             </div>

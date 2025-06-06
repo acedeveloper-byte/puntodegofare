@@ -76,15 +76,9 @@ const CardSlick = () => {
           <div class="row">
             <div class="col-md-12">
               <div class="titlepage">
-                <h2>The Best Tours</h2>
+                <h2>Explora los mejores destinos</h2>
                 <span>
-                  Embark on a journey of a lifetime with our expertly curated
-                  selection of the best tours. Explore captivating destinations
-                  that promise unforgettable moments. Immerse yourself in
-                  enriching experiences, crafted to perfection. From cultural
-                  gems to natural wonders, our tours redefine travel, ensuring
-                  each adventure is a chapter of timeless memories waiting to
-                  unfold.
+                Desde ciudades populares hasta tesoros escondidos, descubre ofertas de vuelos a destinos de todo el mundo a precios inmejorables. Contáctanos para reservar vuelos a tu destino soñado con tarifas reducidas.
                 </span>
               </div>
             </div>
@@ -94,44 +88,33 @@ const CardSlick = () => {
             <div className="item-card">
               <div class="item">
                 <img class="img-responsive" src="images/miami.jpg" alt="#" />
-                <h3>Miami</h3>
+                <h3>Ciudad de México
+</h3>
                 <p>
-                Experience the vibrant rhythm of Miami with our enticing tour, where sun-soaked beaches, eclectic neighborhoods, and pulsating nightlife converge to offer a taste of the city's lively and diverse atmosphere.
-                </p>
+Experimenta el corazón de México con su rica cultura, monumentos históricos y gastronomía de primera clase. Encuentra las mejores tarifas hoy mismo.               </p>
               </div>
             </div>
             <div className="item-card">
               <div class="item">
                 <img class="img-responsive" src="images/2.jpg" alt="#" />
-                <h3>New York</h3>
+                <h3>Los Ángeles</h3>
                 <p>
-                  Dive into the dynamic energy of New York City with our
-                  immersive tour, where towering skyscrapers, world-renowned
-                  attractions, and eclectic neighborhoods create an
-                  unforgettable tapestry of urban exploration.
+                 Desde el glamour de Hollywood hasta playas soleadas, Los Ángeles lo tiene todo. Reserva ahora y vuela a un precio que se ajuste a tu presupuesto.
+
                 </p>
               </div>
             </div>
             <div className="item-card">
               <div class="item">
                 <img class="img-responsive" src="images/3.jpg" alt="#" />
-                <h3>London</h3>
+                <h3>Cancún</h3>
                 <p>
-                Explore the heart of London with our captivating tour, where
-                  the allure of history meets modern elegance, showcasing iconic
-                  landmarks and cultural treasures.
+                Relájate en un paraíso con aguas cristalinas y resorts de lujo. No te pierdas nuestras últimas ofertas para esta escapada tropical.
+
                 </p>
               </div>
             </div>
-            <div className="item-card">
-              <div class="item">
-                <img class="img-responsive" src="images/lasvegas.jpg" alt="#" />
-                <h3>Las Vegas</h3>
-                <p>
-                Immerse yourself in the bustling energy of New York City, where iconic skyscrapers, cultural landmarks, and diverse neighborhoods create an unparalleled urban adventure.
-                </p>
-              </div>
-            </div>
+           
           </Slider>
         </div>
       </div>

@@ -8,14 +8,13 @@ const BgTravel = () => {
           <div class="row">
             <div class="col-md-12">
               <div class="amazing-box">
-                <h2>Amazing London Tour</h2>
+                <h2> ¡Contacta con Punto de Go Fare hoy mismo!</h2>
                 <span>
-                  Uncover the magic of an Amazing London Tour, delving into
-                  historic wonders and cultural marvels. Immerse yourself in the
-                  dynamic tapestry of this vibrant cityscape, where every corner
-                  holds a new adventure waiting to be discovered.
+               Contacta hoy mismo con nuestros expertos para encontrar las mejores ofertas para tu próximo viaje y volar a precios accesibles.
+
+
                 </span>
-                <a href="tel:+1(888)-279-9809" className="diagonal">
+                <a href="tel:+1(000) 000-0000" className="diagonal">
                   Book Now
                 </a>
               </div>

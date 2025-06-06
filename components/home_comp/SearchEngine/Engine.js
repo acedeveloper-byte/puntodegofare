@@ -294,9 +294,9 @@ const Engine = () => {
             <Typewriter
               options={{
                 strings: [
-                  "Finding best flight reservation with cheap fare?",
-                  "Your gateway to the world's best destinations.",
-                  "We ensure the best travel experience.",
+                  "Reserva billetes con descuentos y vuela a un precio asequible.",
+                  "Consigue las mejores ofertas para tu próximo vuelo.",
+                  "Te acercamos a tu destino soñado.",
                 ],
                 autoStart: true,
                 loop: true,
@@ -306,7 +306,7 @@ const Engine = () => {
           <h2 className="text-white">
             <Typewriter
               options={{
-                strings: ["BOOK EASY VACATION"],
+                  strings: ["PUENTODEGOFARE"],
                 autoStart: true,
                 loop: true,
               }}

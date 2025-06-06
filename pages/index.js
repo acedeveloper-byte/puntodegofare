@@ -29,10 +29,9 @@ export default function Home() {
       <Engine />
       <AboutSection />
       <Travel />
-      <London />
+      {/* <London /> */}
       <CardSlick />
       <BgTravel />
-      <Blogs />
       <Footer />
     </>
   );

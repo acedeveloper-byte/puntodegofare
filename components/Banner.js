@@ -5,7 +5,7 @@ const Banner = () => {
     <>
       <section
         style={{
-          backgroundImage: `url("/images/banner_plane.png")`,
+          backgroundImage: `url("/images/main-banner.jpg")`,
           height: "100vh",
           backgroundSize: "cover",
           position: "relative",

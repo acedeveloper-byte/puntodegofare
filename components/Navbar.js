@@ -41,17 +41,14 @@ const Navbar = () => {
           </div>
           <ul class={`nav ${isMobileNavOpen ? "mobile-nav" : ""}`}>
             <li class="nav-item" style={{ textAlign: "center" }}>
-              <Link href="/">Home</Link>
+              <Link href="/">Hogar</Link>
             </li>
             <li class="nav-item" style={{ textAlign: "center" }}>
-              <Link href="/about">About Us</Link>
-            </li>
-            <li class="nav-item" style={{ textAlign: "center" }}>
-              <Link href="/">Services</Link>
+              <Link href="/about">Sobre nosotros</Link>
             </li>
             {/* <li class="nav-item" style={{textAlign:"center"}}><a href="#">Why Us</a></li> */}
             <li class="nav-item contact-btn" style={{ textAlign: "center" }}>
-              <Link href="/contact">Contact Us</Link>
+              <Link href="/contact">Contacta con nosotros</Link>
             </li>
           </ul>
         </nav>

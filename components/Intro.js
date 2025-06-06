@@ -3,7 +3,7 @@ import React from 'react'
 const Intro = () => {
   return (
     <>
-    <div id="intro" className="basic-1">
+  <div id="intro" className="basic-1">
   <div className="container">
     <div className="row">
       <div className="col-lg-5">

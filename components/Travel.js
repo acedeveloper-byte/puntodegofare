@@ -8,11 +8,9 @@ const Travel = () => {
           <div class="row">
             <div class="col-md-12 ">
               <div class="titlepage">
-                <h2>Select Offers For Traveling</h2>
+                <h2>Por qué Punto de Go Fare es el mejor</h2>
                 <span>
-                  Discover unbeatable travel deals! Select exclusive offers for
-                  your journey and embark on unforgettable adventures without
-                  breaking the bank.
+                En Punto de Go Fare trabajamos con el único objetivo de que tu viaje sea inolvidable.
                 </span>
               </div>
             </div>
@@ -21,8 +19,9 @@ const Travel = () => {
             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
               <div class="traveling-box">
                 <img src="/images/project/flight.png" alt="icon" />
-                <h3>Simple Booking</h3>
-                <p>Book online within minutes or text / call us instead</p>
+                <h3>Reserva fácil
+</h3>
+                <p>Con nosotros, puedes reservar tus billetes sin esfuerzo.</p>
                 <div class="read-more">
                   <a href="#" className="diagonal">
                     Read More
@@ -35,10 +34,10 @@ const Travel = () => {
                 <i>
                   <img src="/images/project/money.png" alt="icon" />
                 </i>
-                <h3>Affordable Price</h3>
+                <h3>Ofertas exclusivas</h3>
                 <p>
-                  We offer the lowest discounts on flights and all other travel
-                  needs
+                 Ofrecemos vuelos ilimitados a varios destinos.
+
                 </p>
                 <div class="read-more">
                   <a href="#" className="diagonal">
@@ -52,8 +51,10 @@ const Travel = () => {
                 <i>
                   <img src="/images/project/phone.png" alt="icon" />
                 </i>
-                <h3>24/7 Support</h3>
-                <p>24/7 travel advisors for all your needs.</p>
+                <h3>Atención al cliente 24/7
+</h3>
+                <p>Nuestros expertos están disponibles las 24 horas para ayudar a los viajeros.
+</p>
                 <div class="read-more">
                   <a href="#" className="diagonal">
                     Read More
@@ -66,10 +67,11 @@ const Travel = () => {
                 <i>
                   <img src="/images/project/trust.png" alt="icon" />
                 </i>
-                <h3>Top Rated</h3>
+                <h3>Satisfacción del cliente</h3>
                 <p>
-                  Read trusted reviews on Google and Trustpilot from real
-                  travelers
+                 Nuestro objetivo es satisfacer a nuestros clientes ofreciéndoles lo que buscan.
+
+
                 </p>
                 <div class="read-more">
                   <a href="#" className="diagonal">

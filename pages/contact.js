@@ -20,7 +20,7 @@ const contact = () => {
       <div className="container my-5">
         <div className="row justify-content-center">
           <div className="col-lg-9">
-            <h1 className="mb-3">Contact Us</h1>
+            <h1 className="mb-3">Contacta con nosotros</h1>
             <form>
               <div className="row g-3">
                 <div className="col-md-6">
