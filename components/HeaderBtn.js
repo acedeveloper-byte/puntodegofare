@@ -10,7 +10,7 @@ export default function CallButton() {
 				className='btn btn-success d-flex align-items-center fw-bold blinking'
 				style={{ borderRadius: '50px', fontSize: '1.1rem' }}>
 				<FaPhoneAlt className='me-2' />
-				1-800-123-4567
+				+52 800 8017 795
 			</a>
 
 			<style jsx>{`
