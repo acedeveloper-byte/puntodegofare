@@ -27,7 +27,7 @@ const Privacy = () => {
   return (
     <>
       <Navbar />
-      <SmallBanner Bannerhead="Términos y condiciones" />
+      <SmallBanner Bannerhead="Política de privacidad" />
    
           {" "}
           <Head>
