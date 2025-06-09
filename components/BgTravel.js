@@ -10,13 +10,9 @@ const BgTravel = () => {
               <div class="amazing-box">
                 <h2> ¡Contacta con Punto de Go Fare hoy mismo!</h2>
                 <span>
-               Contacta hoy mismo con nuestros expertos para encontrar las mejores ofertas para tu próximo viaje y volar a precios accesibles.
-
-
+                  Contacta hoy mismo con nuestros expertos para encontrar las mejores ofertas para tu próximo viaje y volar a precios accesibles.
                 </span>
-                <a href="tel:+1(000) 000-0000" className="diagonal">
-                  Book Now
-                </a>
+               
               </div>
             </div>
           </div>

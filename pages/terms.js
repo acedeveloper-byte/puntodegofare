@@ -16,9 +16,9 @@ const Terms = () => {
           <Head>
               <title>Términos y condiciones</title>
 
-            <meta name="description" content={response.metaDescription} />
+            {/* <meta name="description" content={response.metaDescription} />
             <meta name="title" content={response.metaTitle} />
-            <meta name="keyword" content={response.metaKeywords} />
+            <meta name="keyword" content={response.metaKeywords} /> */}
           </Head>
           <div className="container about-paragraph mt-5">
             <div

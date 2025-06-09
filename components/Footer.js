@@ -36,7 +36,6 @@ const Footer = () => {
                 <div className="Follow">
                   <h3>Contacta con nosotros</h3>
                   <span>
-                    <h6>Registered Address:</h6>
                     <span>
                       Registered Agents Inc <br />
                       30 N Gould St Ste R,
@@ -52,21 +51,21 @@ const Footer = () => {
               <div className="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                 <div className="Follow">
                   <h3>
-ENLACES ADICIONALES</h3>
+                    ENLACES ADICIONALES</h3>
                   <ul className="link">
                     <li>
                       <Link href="/about">Sobre nosotros</Link>
                     </li>
                     <li>
                       <Link href="/terms">
-Términos y condiciones
-</Link>
+                        Términos y condiciones
+                      </Link>
                     </li>
                     <li>
                       <Link href="/privacy"> Política de privacidad
-</Link>
+                      </Link>
                     </li>
-                 
+
                     <li>
                       <Link href="/contact"> Contacta con nosotros</Link>
                     </li>

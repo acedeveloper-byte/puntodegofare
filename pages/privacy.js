@@ -32,9 +32,9 @@ const Privacy = () => {
           {" "}
           <Head>
               <title>Política de privacidad</title>
-            <meta name="description" content={response.metaDescription} />
+            {/* <meta name="description" content={response.metaDescription} />
             <meta name="title" content={response.metaTitle} />
-            <meta name="keyword" content={response.metaKeywords} />
+            <meta name="keyword" content={response.metaKeywords} /> */}
           </Head>
           <div className="container about-paragraph mt-5">
             <div
