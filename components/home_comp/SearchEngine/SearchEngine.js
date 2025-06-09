@@ -37,7 +37,7 @@ const SearchEngine = () => {
                 </InputGroup.Text>
                 <Form.Control
                   type="text"
-                  placeholder="Tu destino"
+                  placeholder="desde origen"
                   value={from}
                   onChange={(e) => setFrom(e.target.value)}
                   required
