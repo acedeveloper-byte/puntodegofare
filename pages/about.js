@@ -24,12 +24,12 @@ const about = () => {
       <SmallBanner Bannerhead="Sobre nosotros" />
 
   <div dangerouslySetInnerHTML={{ __html : HTML}}  className="p-5" />
-      <Intro />
+      {/* <Intro />
       <Discover />
       <Service />
       <London />
 
-      <Blogs />
+      <Blogs /> */}
       {/* <Promotion/> */}
       <Footer />
     </>
