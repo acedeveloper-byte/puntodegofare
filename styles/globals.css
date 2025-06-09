@@ -3065,3 +3065,30 @@ ul.location_icon span {
 .sticky .nav-item a {
      color: black
 }
+
+
+.form-container{
+     position: absolute !important;
+    top: 21rem !important;
+    width: 100% !important;
+        left: 7% !important;
+
+}
+
+.title-h1{
+margin-top: -7rem;
+}
+
+@media (max-width: 480px){
+     /* .about-reser{
+          margin-top: 9rem !important;
+     } */
+
+     .form-container{
+          width: 87% !important;
+     }
+
+     .title-h1{
+          margin-top: -17rem;
+     }
+}

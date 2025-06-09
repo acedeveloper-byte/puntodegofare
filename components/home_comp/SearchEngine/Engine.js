@@ -290,7 +290,7 @@ const Engine = () => {
     <>
       <Container fluid className="row-position-relative">
         <span>
-          <h1 className="text-center text-white">
+          <h1 className="text-center text-white title-h1" >
             <Typewriter
               options={{
                 strings: [

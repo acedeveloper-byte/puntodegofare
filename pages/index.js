@@ -10,6 +10,7 @@ import Blogs from "../components/Blogs";
 import Footer from "../components/Footer";
 import CardSlick from "../components/CardSlick";
 import Engine from "@/components/home_comp/SearchEngine/Engine";
+import SearchEngine from "@/components/home_comp/SearchEngine/SearchEngine";
 
 export default function Home() {
   return (
@@ -24,9 +25,13 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.png" />
       </Head>
+
       <Navbar />
       <Banner />
       <Engine />
+<SearchEngine/>
+
+
       <AboutSection />
       <Travel />
       {/* <London /> */}
