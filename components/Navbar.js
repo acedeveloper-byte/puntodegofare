@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React, { useEffect } from "react";
 import { useState } from "react";
+import CallButton from "./HeaderBtn";
 
 const Navbar = () => {
   const [isMobileNavOpen, setMobileNavOpen] = useState(false);
@@ -46,9 +47,13 @@ const Navbar = () => {
             <li class="nav-item" style={{ textAlign: "center" }}>
               <Link href="/about">Sobre nosotros</Link>
             </li>
+
             {/* <li class="nav-item" style={{textAlign:"center"}}><a href="#">Why Us</a></li> */}
             <li class="nav-item contact-btn" style={{ textAlign: "center" }}>
               <Link href="/contact">Contacta con nosotros</Link>
+            </li>
+                        <li  style={{ textAlign: "center" }}>
+   <CallButton />
             </li>
           </ul>
         </nav>
