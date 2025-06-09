@@ -15,10 +15,10 @@ const about = () => {
     <>
       <Navbar />
       <Head>
-        <title> Sobre nosotros | BookEasyVacation.com </title>
+        <title> Sobre nosotros | puntodegofare.mx </title>
         <meta
           name="description"
-          content="Discover the easiest way to book flights on BookEasyVacation.com. Find cheap flight booking options and business class flights that suit your travel needs."
+          content="Discover the easiest way to book flights on puntodegofare.mx. Find cheap flight booking options and business class flights that suit your travel needs."
         />
       </Head>
       <SmallBanner Bannerhead="Sobre nosotros" />

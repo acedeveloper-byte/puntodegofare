@@ -9,10 +9,10 @@ const contact = () => {
     <>
       <Navbar />
       <Head>
-        <title> Contact Us | BookEasyVacation.com </title>
+        <title> Contact Us | puntodegofare.mx </title>
         <meta
           name="description"
-          content="Looking to book a flight? Contact us at BookEasyVacation.com for seamless flight booking services. Let us make your travel easy and convenient!"
+          content="Looking to book a flight? Contact us at puntodegofare.mx for seamless flight booking services. Let us make your travel easy and convenient!"
         />
       </Head>
       <SmallBanner Bannerhead="Contact Us" />
